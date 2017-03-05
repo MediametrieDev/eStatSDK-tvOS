@@ -1,0 +1,6 @@
+framework module eStat_tvOS {
+  umbrella header "eStat_tvOS.h"
+
+  export *
+  module * { export * }
+}
