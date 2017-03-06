@@ -1,5 +1,5 @@
-# eStatSDK-iOS
-Repository for eStat iOs framework
+# eStatSDK-tvOS
+Repository for eStat tvOS framework
 
 ### Content
 * Tag Apple TV
