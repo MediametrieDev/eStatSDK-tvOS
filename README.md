@@ -17,7 +17,7 @@ CocoaPods is a dependency manager which automates and simplifies the process of 
 
 ```ruby
 target 'MyProject' do
-pod "eStatSDK-tvOS", "~5.4.0"
+pod "eStatSDK-tvOS", "~5.4.2"
 end
 ```
 

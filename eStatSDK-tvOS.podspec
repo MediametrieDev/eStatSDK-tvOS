@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name = 'eStatSDK-tvOS'
-  s.version = '5.4.0'
+  s.version = '5.4.2'
   s.license = { :type => 'MIT', :file => 'LICENSE' }
   s.platform = :tvos
   s.summary = 'eStat tvOS SDK'
